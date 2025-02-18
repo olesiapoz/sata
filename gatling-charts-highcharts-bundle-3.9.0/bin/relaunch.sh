@@ -1,0 +1,1 @@
+wait 23873 && ./gatling.sh -s SwitchOnOffSimulation -rm local -rd oo320rps_150_fixed

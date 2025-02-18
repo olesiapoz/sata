@@ -37,7 +37,7 @@ public class RestAPI {
         transactionCount.increment();
         //var fact = factorial(8000);
         //var fact = factorial(new Random().nextInt(16000 - 8000 + 1) + 8000);
-        var fact = factorial(new Random().nextInt(12000 - 8000 + 1) + 8000);
+        var fact = factorial(new Random().nextInt(12000 - 8000 + 1) + 8000);//used for SAA tests
         //var fact = factorial(new Random().nextInt(8000 - 4000 + 1) + 4000);
         System.out.println(fact);
         try {

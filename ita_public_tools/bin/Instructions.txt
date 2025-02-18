@@ -1,0 +1,17 @@
+ gzip -dc wc_day78_2.gz| bin/recreate state/object_mappings.sort > output/recreate.txt
+ sed -n '1,6583357' recreate.txt > newNorth.txt 
+ 
+ sed 's/"GET.*//' -i newNorth.txt
+ sed  's/$/"GET \/api\/execute\/ HTTP\/1.0" 200 344/' -i newNorth.txt
+ sed  's/^/opo-demo1.northeurope.cloudapp.azure.com:30036 / ' -i newNorth.txt
+
+ sed 's/"GET.*//' -i recreate.txt
+ sed  's/$/"GET \/api\/execute\/ HTTP\/1.0" 200 344/' -i recreate.txt
+ sed  's/^/opo-demo1.northeurope.cloudapp.azure.com:30036 / ' -i recreate.txt
+
+ python2 apache-log-replay.py ../newNorth.txt 
+
+ opo-demo1.northeurope.cloudapp.azure.com
+sed  's/^/phd-demo1.swedencentral.cloudapp.azure.com:30036 / ' -i newSweden.txt
+
+  sed -n '3000000,6500000p' recreate.txt > newNorth.txt

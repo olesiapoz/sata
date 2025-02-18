@@ -1,0 +1,3844 @@
+BTCount{timestamp=2024-06-15 07:35:57.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+BTCount{timestamp=2024-06-15 07:36:03.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+BTCount{timestamp=2024-06-15 07:36:09.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:15.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:21.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:27.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:33.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:39.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:45.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:51.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:36:57.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:03.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:09.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:15.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:21.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:27.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:33.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:39.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:45.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:51.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:37:57.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:04.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:10.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:16.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:22.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:28.0, value=0.0}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:34.0, value=0.02267}
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+org.json.JSONException: JSONArray[0] not found.
+SLA 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: Downsacale due to no load  during LOW SLA
+SLA now:0.0SLA before:0.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:40.0, value=0.2555544444444445}
+SLA 100.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:0.0the diff: 100.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:46.0, value=0.7851983333333333}
+SLA 100.0
+1.0 offset value 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:52.0, value=1.656328888888889}
+SLA 100.0
+2.0 offset value 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:38:58.0, value=2.8658638888888888}
+SLA 100.0
+3.0 offset value 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:39:04.0, value=5.608272222222221}
+SLA 100.0
+6.0 offset value 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:39:10.0, value=7.702186111111111}
+SLA 100.0
+8.0 offset value 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: downscale in normal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+BTCount{timestamp=2024-06-15 07:39:16.0, value=10.2217}
+SLA 100.0
+10.0 offset value 0.0
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:39:22.0, value=13.123831111111112}
+SLA 100.0
+13.0 offset value 0.02439722222222222
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:39:28.0, value=15.7}
+SLA 100.0
+16.0 offset value 0.27456
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA1
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:39:34.0, value=20.625}
+SLA 100.0
+21.0 offset value 1.5465844444444445
+received currentReplicas from CPA1
+SAAA is running
+Possible a peek. Ignoring Velocity
+shouldUpscale: Upscaling in nomal conditions
+SLA now:100.0SLA before:100.0the diff: 0.0
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:39:34.0, value=0.5264654541980718} velocity: Velocity{averageIncreaseVelocity=0.4323, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 1 velocity level: Velocity{averageIncreaseVelocity=0.4323, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=1.03092784}
+Possible a peek. Ignoring Velocity
+Desired upscale replicas 3
+Possible a peek. Ignoring Velocity
+We are ok with SLA.  Desired upscale replicas nr during peak is 3
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 3
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:39:40.0, value=22.475}
+SLA 96.46172923662931
+22.0 offset value 2.6800749999999995
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:39:46.0, value=24.3}
+SLA 85.72552907606436
+24.0 offset value 4.177736111111112
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:39:52.0, value=21.71963428571429}
+SLA 85.72560113154172
+22.0 offset value 6.0358566666666675
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:39:58.0, value=19.119669629629627}
+SLA 85.72560113154172
+19.0 offset value 8.274264444444444
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+received currentReplicas from CPA3
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 3  replicas from Prometheus 1 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:40:04.0, value=19.184834444444444}
+SLA 86.7922438276381
+19.0 offset value 12.273457777777779
+received currentReplicas from CPA3
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA3
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:40:10.0, value=28.8356472922596}
+SLA 76.62621994569453
+29.0 offset value 15.393295555555556
+received currentReplicas from CPA3
+SAAA is running
+shouldUpscale: Bellow SLA and SLA is decreasing.
+SLA now:76.62621994569453SLA before:86.7922438276381the diff: -10.166023881943573
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:40:10.0, value=0.32458131592933914} velocity: Velocity{averageIncreaseVelocity=0.30237, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 3 velocity level: Velocity{averageIncreaseVelocity=0.30237, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=0.78996103}
+SLA decresing, need to upscale sooner
+Desired upscale replicas 5
+Original Increase factor is: 1 And original replicas : 5Desired upscale replicas 5
+We are bellow SLA. Using SLA factor for  upscale replicas calculation. Original target Replicas nr is 5  and slo derivative cofficient increase2Propotional cofficient :0.78996103
+Final Upscale with SLA impact 9
+Final Target replicas :9
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 9
+received currentReplicas from CPA9
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 9  replicas from Prometheus 3 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:40:16.0, value=30.72353037037037}
+SLA 73.33783834730362
+31.0 offset value 18.15
+received currentReplicas from CPA9
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 9  replicas from Prometheus 3 Lets cooldown..
+received currentReplicas from CPA9
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 9  replicas from Prometheus 3 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:40:22.0, value=35.08832388888889}
+SLA 76.30426838638239
+35.0 offset value 20.625
+received currentReplicas from CPA9
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 9  replicas from Prometheus 3 Lets cooldown..
+received currentReplicas from CPA9
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 9  replicas from Prometheus 3 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:40:28.0, value=32.48147548041321}
+SLA 79.49815693234385
+32.0 offset value 24.3
+received currentReplicas from CPA9
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 9  replicas from Prometheus 3 Lets cooldown..
+received currentReplicas from CPA9
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 9  replicas from Prometheus 3 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:40:34.0, value=39.19880615330052}
+SLA 81.1751266741168
+39.0 offset value 23.359756190476194
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:40:40.0, value=45.93260597851774}
+SLA 82.27089349653126
+46.0 offset value 20.72725925925926
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:40:46.0, value=50.21067650020418}
+SLA 84.10508506227309
+50.0 offset value 18.72139481481481
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:40:52.0, value=51.73220518518519}
+SLA 85.22780411053088
+52.0 offset value 27.5066355086924
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:40:58.0, value=47.97585650793651}
+SLA 86.47827369912667
+48.0 offset value 28.7234
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:04.0, value=48.58316166666667}
+SLA 87.33467777564043
+49.0 offset value 32.04573777777778
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:10.0, value=47.670881666666666}
+SLA 87.94195356493931
+48.0 offset value 35.77725944444445
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:16.0, value=49.01855388888888}
+SLA 88.61551743736025
+49.0 offset value 35.90509342901149
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:22.0, value=50.275000000000006}
+SLA 89.14184489201959
+50.0 offset value 43.01092517031333
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:28.0, value=49.800000000000004}
+SLA 89.85977309870829
+50.0 offset value 48.95547938909308
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:34.0, value=51.10000000000001}
+SLA 90.3703593659092
+51.0 offset value 51.980746518518515
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:40.0, value=51.775}
+SLA 90.8194550948982
+52.0 offset value 48.87529015873017
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:46.0, value=53.0}
+SLA 91.24942297739408
+53.0 offset value 49.2480273015873
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:52.0, value=55.175000000000004}
+SLA 91.65562963319562
+55.0 offset value 48.28127666666667
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:41:58.0, value=57.025}
+SLA 92.19929940973026
+57.0 offset value 47.42290222222222
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:04.0, value=60.35}
+SLA 92.5895340246835
+60.0 offset value 50.07653944444444
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:10.0, value=63.25}
+SLA 92.91882905254867
+63.0 offset value 50.125
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:16.0, value=65.95}
+SLA 93.24253031608637
+66.0 offset value 50.25
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:22.0, value=69.3}
+SLA 93.55650650552279
+69.0 offset value 51.125
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:28.0, value=71.9}
+SLA 93.96154232374263
+72.0 offset value 52.574999999999996
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:34.0, value=75.3}
+SLA 94.22882521994525
+75.0 offset value 54.625
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:40.0, value=78.37500000000001}
+SLA 94.48637841071435
+78.0 offset value 56.025
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:46.0, value=80.925}
+SLA 94.71829031666306
+81.0 offset value 58.325
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:52.0, value=84.775}
+SLA 94.95124233533615
+85.0 offset value 61.84999999999999
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:42:58.0, value=87.2}
+SLA 95.23955010937513
+87.0 offset value 64.075
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:04.0, value=90.14999999999999}
+SLA 95.44536875466937
+90.0 offset value 67.55000000000001
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:10.0, value=92.8554366042172}
+SLA 95.62496834693107
+93.0 offset value 70.44999999999999
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:16.0, value=94.99999999999999}
+SLA 95.78290020470881
+95.0 offset value 73.39572349516503
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:22.0, value=97.22500000000001}
+SLA 95.95128452270458
+97.0 offset value 76.92500000000001
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:28.0, value=98.625}
+SLA 96.15089990566632
+99.0 offset value 79.40000000000002
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:34.0, value=99.225}
+SLA 96.28640023795826
+99.0 offset value 82.325
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:40.0, value=100.0}
+SLA 96.40515022719258
+100.0 offset value 86.14999999999999
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:46.0, value=100.05000000000001}
+SLA 96.51424916430614
+100.0 offset value 88.10000000000001
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:52.0, value=100.375}
+SLA 96.62343258114362
+100.0 offset value 91.19999999999999
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:43:58.0, value=100.1}
+SLA 96.76952799565052
+100.0 offset value 93.4804366042172
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:04.0, value=99.39999999999999}
+SLA 96.86262699766532
+99.0 offset value 96.7
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:10.0, value=99.85}
+SLA 96.94856078352235
+100.0 offset value 98.19999999999999
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:16.0, value=99.62499999999999}
+SLA 97.02649096923948
+100.0 offset value 99.10000000000001
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:22.0, value=100.775}
+SLA 97.10891115490892
+101.0 offset value 99.4
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+shouldDownScale: No downsacale action due to to LOW SLA
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:28.0, value=100.975}
+SLA 97.2205637626763
+101.0 offset value 99.75
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:34.0, value=102.87500000000001}
+SLA 97.29993258245158
+103.0 offset value 100.375
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:40.0, value=104.72500000000001}
+SLA 97.37047721458451
+105.0 offset value 100.275
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:46.0, value=106.37499999999999}
+SLA 97.43652351279907
+106.0 offset value 99.42500000000001
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:52.0, value=109.39999999999999}
+SLA 97.5074452548221
+109.0 offset value 99.925
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:44:58.0, value=112.55000000000001}
+SLA 97.6042824786136
+113.0 offset value 99.825
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:45:04.0, value=115.425}
+SLA 97.66690829096221
+115.0 offset value 100.475
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:45:10.0, value=118.61374318033937}
+SLA 97.7288121469333
+119.0 offset value 100.675
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:45:16.0, value=120.55}
+SLA 97.78358102185332
+121.0 offset value 101.41285899805204
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:45:22.0, value=124.27398382621304}
+SLA 97.84036972978292
+124.0 offset value 103.47500000000001
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA9
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:45:28.0, value=127.125}
+SLA 97.92138573435817
+127.0 offset value 105.55
+received currentReplicas from CPA9
+SAAA is running
+Possible a peek. Ignoring Velocity
+shouldUpscale: Upscaling in nomal conditions
+SLA now:97.92138573435817SLA before:97.84036972978292the diff: 0.08101600457524682
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:45:28.0, value=0.5068379873260449} velocity: Velocity{averageIncreaseVelocity=0.47667, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 9 velocity level: Velocity{averageIncreaseVelocity=0.47667, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=1.00949882}
+Possible a peek. Ignoring Velocity
+Desired upscale replicas 11
+Possible a peek. Ignoring Velocity
+We are ok with SLA.  Desired upscale replicas nr during peak is 11
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 11
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:45:34.0, value=129.8}
+SLA 97.97532018288314
+130.0 offset value 108.325
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:45:40.0, value=133.125}
+SLA 98.02661529103376
+133.0 offset value 111.14999999999999
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:45:46.0, value=136.15}
+SLA 98.07353007308531
+136.0 offset value 113.42500000000001
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:45:52.0, value=139.92906222222223}
+SLA 98.1241614019783
+140.0 offset value 116.925
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+received currentReplicas from CPA11
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 11  replicas from Prometheus 9 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:45:58.0, value=142.0044088888889}
+SLA 98.18950001235153
+142.0 offset value 119.43874318033936
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:46:04.0, value=144.157312432588}
+SLA 98.23969877036532
+144.0 offset value 123.52499999999999
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:46:11.0, value=146.32973216931217}
+SLA 98.28003376131149
+146.0 offset value 125.94898382621302
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:46:17.0, value=148.78450642857146}
+SLA 98.3187317689003
+149.0 offset value 128.6
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:46:23.0, value=148.7302511111111}
+SLA 98.35646443407457
+149.0 offset value 131.875
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:46:29.0, value=148.48068277777776}
+SLA 98.40837448102363
+148.0 offset value 134.85
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA11
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:46:35.0, value=149.20936166666667}
+SLA 98.44252979568499
+149.0 offset value 138.225
+received currentReplicas from CPA11
+SAAA is running
+Possible a peek. Ignoring Velocity
+shouldUpscale: Upscaling in nomal conditions
+SLA now:98.44252979568499SLA before:98.40837448102363the diff: 0.03415531466136201
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:46:35.0, value=0.5015424190730645} velocity: Velocity{averageIncreaseVelocity=0.23944, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 11 velocity level: Velocity{averageIncreaseVelocity=0.23944, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=1.01487144}
+Possible a peek. Ignoring Velocity
+Desired upscale replicas 13
+Possible a peek. Ignoring Velocity
+We are ok with SLA.  Desired upscale replicas nr during peak is 13
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 13
+received currentReplicas from CPA13
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 13  replicas from Prometheus 11 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:46:41.0, value=150.225}
+SLA 98.47448299911274
+150.0 offset value 140.91174222222222
+received currentReplicas from CPA13
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 13  replicas from Prometheus 11 Lets cooldown..
+received currentReplicas from CPA13
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 13  replicas from Prometheus 11 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:46:47.0, value=149.30000000000004}
+SLA 98.5038064363635
+149.0 offset value 143.03551511111115
+received currentReplicas from CPA13
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 13  replicas from Prometheus 11 Lets cooldown..
+received currentReplicas from CPA13
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 13  replicas from Prometheus 11 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:46:53.0, value=149.95000000000002}
+SLA 98.53462647648824
+150.0 offset value 145.4206222222222
+received currentReplicas from CPA13
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 13  replicas from Prometheus 11 Lets cooldown..
+received currentReplicas from CPA13
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 13  replicas from Prometheus 11 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:46:59.0, value=150.025}
+SLA 98.57669348368422
+150.0 offset value 146.96230793650795
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:47:05.0, value=149.02874222222223}
+SLA 98.60002279000454
+149.0 offset value 147.12596888888888
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:47:11.0, value=154.96488888888885}
+SLA 98.63685292021351
+155.0 offset value 148.39000444444443
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:47:17.0, value=158.7868215873016}
+SLA 98.65200057749082
+159.0 offset value 148.64426
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:47:23.0, value=167.8957038888889}
+SLA 98.66714769592198
+168.0 offset value 150.3
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA13
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:47:29.0, value=169.12608865423397}
+SLA 98.65687488960462
+169.0 offset value 149.97500000000002
+received currentReplicas from CPA13
+SAAA is running
+SLA decresing, need to upscale sooner
+shouldUpscale: Upscaling in nomal conditions
+SLA now:98.65687488960462SLA before:98.66714769592198the diff: -0.01027280631736005
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:47:29.0, value=0.46017655789975453} velocity: Velocity{averageIncreaseVelocity=0.42278, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 13 velocity level: Velocity{averageIncreaseVelocity=0.42278, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=1.01708118}
+SLA decresing, need to upscale sooner
+Desired upscale replicas 21
+Original Increase factor is: 1 And original replicas : 21Desired upscale replicas 21
+Final Target replicas :21
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 21
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:47:35.0, value=176.82578888888887}
+SLA 98.48120626628572
+177.0 offset value 149.5
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:47:41.0, value=181.78971555555555}
+SLA 98.28729020564266
+182.0 offset value 149.8
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:47:47.0, value=182.62500000000003}
+SLA 98.2807826666146
+183.0 offset value 150.6826088888889
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:47:53.0, value=185.7577585185185}
+SLA 98.30334197016559
+186.0 offset value 153.07248
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 13 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:47:59.0, value=185.72907481481482}
+SLA 98.34867976419788
+186.0 offset value 154.76780740740742
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:48:05.0, value=194.60135748148147}
+SLA 98.24932990428826
+195.0 offset value 163.13567301587298
+received currentReplicas from CPA21
+SAAA is running
+SLA decresing, need to upscale sooner
+shouldUpscale: Upscaling in nomal conditions
+SLA now:98.24932990428826SLA before:98.34867976419788the diff: -0.09934985990962275
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:48:05.0, value=0.3308581791660915} velocity: Velocity{averageIncreaseVelocity=0.7081, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 21 velocity level: Velocity{averageIncreaseVelocity=0.7081, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=1.01287969}
+SLA decresing, need to upscale sooner
+Desired upscale replicas 25
+Original Increase factor is: 1 And original replicas : 25Desired upscale replicas 25
+Final Target replicas :25
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 25
+received currentReplicas from CPA25
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 25  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:48:11.0, value=198.25198522751325}
+SLA 98.27294950746005
+198.0 offset value 168.8834179192707
+received currentReplicas from CPA25
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 25  replicas from Prometheus 21 Lets cooldown..
+received currentReplicas from CPA25
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 25  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:48:17.0, value=192.75445171957676}
+SLA 98.30452975404657
+193.0 offset value 172.25207555555556
+received currentReplicas from CPA25
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 25  replicas from Prometheus 21 Lets cooldown..
+received currentReplicas from CPA25
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 25  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:48:23.0, value=191.3492995238095}
+SLA 98.32869189802665
+191.0 offset value 182.2146222222222
+received currentReplicas from CPA25
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 25  replicas from Prometheus 21 Lets cooldown..
+received currentReplicas from CPA25
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 25  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:48:29.0, value=201.77377611111112}
+SLA 98.3650557521375
+202.0 offset value 181.42499999999998
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:48:35.0, value=217.5131857407408}
+SLA 98.38351814598505
+218.0 offset value 184.15
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:48:41.0, value=213.58155392592593}
+SLA 98.40923744099656
+214.0 offset value 183.6927114814815
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:48:47.0, value=204.29443640211642}
+SLA 98.43302790494707
+204.0 offset value 187.79963288888888
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:48:53.0, value=190.95795753968255}
+SLA 98.45516278577043
+191.0 offset value 197.2250336422377
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:48:59.0, value=190.99987777777778}
+SLA 98.47876413834742
+191.0 offset value 197.07422835978838
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:05.0, value=206.14170647013074}
+SLA 98.5112644187877
+206.0 offset value 190.65431055555558
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:11.0, value=197.53235}
+SLA 98.52669703449334
+198.0 offset value 196.5388827777777
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:17.0, value=174.47419385076867}
+SLA 98.54105115191221
+174.0 offset value 208.39711944444446
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:23.0, value=195.3}
+SLA 98.58038897965564
+195.0 offset value 223.5599402222222
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:29.0, value=192.00000000000003}
+SLA 98.59922684622971
+192.0 offset value 203.49548666666666
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:35.0, value=213.475}
+SLA 98.62397401295344
+213.0 offset value 199.96147579365083
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:41.0, value=205.42582258225818}
+SLA 98.64102754075732
+205.0 offset value 184.7882977777778
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:47.0, value=174.02500000000003}
+SLA 98.65132113576018
+174.0 offset value 202.62217647013077
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:53.0, value=191.64999999999998}
+SLA 98.68193724713488
+192.0 offset value 205.25356111111114
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:49:59.0, value=199.825}
+SLA 98.7042561239143
+200.0 offset value 184.5491938507687
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:50:05.0, value=192.45}
+SLA 98.69358799846448
+192.0 offset value 183.0
+received currentReplicas from CPA25
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:50:11.0, value=207.17499999999998}
+SLA 98.63358346126005
+207.0 offset value 197.62500000000003
+received currentReplicas from CPA25
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA25
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:50:17.0, value=190.74999999999994}
+SLA 98.61412590859422
+191.0 offset value 205.05
+received currentReplicas from CPA25
+SAAA is running
+SLA decresing, need to upscale sooner
+shouldUpscale: Upscaling in nomal conditions
+SLA now:98.61412590859422SLA before:98.63358346126005the diff: -0.019457552665826938
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:50:17.0, value=0.3062258806910236} velocity: Velocity{averageIncreaseVelocity=-0.31222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} current replicas: 25 velocity level: Velocity{averageIncreaseVelocity=-0.31222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}slafacror: SLAFactor{value=1.01664047}
+SLA decresing, need to upscale sooner
+Desired upscale replicas 27
+Original Increase factor is: 1 And original replicas : 27Desired upscale replicas 27
+Final Target replicas :27
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 27
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:50:23.0, value=202.35000000000002}
+SLA 98.63888621600803
+202.0 offset value 212.87499999999994
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:50:29.0, value=224.52500000000003}
+SLA 98.69527333361962
+225.0 offset value 189.60082258225825
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:50:35.0, value=210.34893138357702}
+SLA 98.70968280485226
+210.0 offset value 180.79999999999998
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:50:41.0, value=217.50466666666668}
+SLA 98.72992285427638
+218.0 offset value 201.95105013126638
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+received currentReplicas from CPA27
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 27  replicas from Prometheus 25 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:50:47.0, value=196.38907802711597}
+SLA 98.71535200787432
+196.0 offset value 188.05
+received currentReplicas from CPA27
+SAAA is running
+SLA decresing, need to upscale sooner
+shouldUpscale: Upscaling in nomal conditions
+SLA now:98.71535200787432SLA before:98.72992285427638the diff: -0.01457084640206574
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:50:47.0, value=0.30189288034090755} velocity: Velocity{averageIncreaseVelocity=0.17667, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 27 velocity level: Velocity{averageIncreaseVelocity=0.17667, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=1.01768404}
+SLA decresing, need to upscale sooner
+Desired upscale replicas 29
+Original Increase factor is: 1 And original replicas : 29Desired upscale replicas 29
+Final Target replicas :29
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 29
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:50:53.0, value=194.57113866666666}
+SLA 98.73419424660713
+195.0 offset value 206.05533723522845
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:50:59.0, value=208.25010814814817}
+SLA 98.75112324661679
+208.0 offset value 199.75000000000003
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:51:05.0, value=199.96525587301588}
+SLA 98.79522163272483
+200.0 offset value 193.77499999999998
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:51:11.0, value=196.64340333333334}
+SLA 98.78230899564399
+197.0 offset value 218.55
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+received currentReplicas from CPA29
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 29  replicas from Prometheus 27 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:51:17.0, value=220.57443749003346}
+SLA 98.74430260888096
+221.0 offset value 214.4
+received currentReplicas from CPA29
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:51:23.0, value=213.7285641111111}
+SLA 98.76079063554982
+214.0 offset value 209.37393138357706
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:51:29.0, value=219.29800349315863}
+SLA 98.74911438606927
+219.0 offset value 211.62494666666663
+received currentReplicas from CPA29
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:51:35.0, value=216.00722539682536}
+SLA 98.76179455226328
+216.0 offset value 193.8037322222222
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:51:41.0, value=217.48570888888887}
+SLA 98.80362878602176
+217.0 offset value 202.0832414814815
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:51:47.0, value=219.26278555555558}
+SLA 98.81766235963349
+219.0 offset value 208.01079047619046
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:51:53.0, value=192.44999999999993}
+SLA 98.82792714325925
+192.0 offset value 191.23987888888888
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:51:59.0, value=186.725}
+SLA 98.84320620793737
+187.0 offset value 213.70879
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:05.0, value=195.37535376768838}
+SLA 98.88131154704905
+195.0 offset value 215.9006116666667
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:11.0, value=193.625}
+SLA 98.86950968302456
+194.0 offset value 218.2220434931587
+received currentReplicas from CPA29
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:17.0, value=197.97499999999997}
+SLA 98.88115248417367
+198.0 offset value 218.4834571428571
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:23.0, value=178.9}
+SLA 98.89215395725404
+179.0 offset value 214.39858388888885
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:30.0, value=174.72500000000002}
+SLA 98.89941445983543
+175.0 offset value 219.62546333333336
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:36.0, value=200.2}
+SLA 98.91366701694629
+200.0 offset value 211.66492555555553
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:42.0, value=186.29999999999995}
+SLA 98.92383849441545
+186.0 offset value 181.65
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:48.0, value=184.55423702313948}
+SLA 98.93266137700061
+185.0 offset value 195.45000000000002
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:52:54.0, value=181.725}
+SLA 98.94549594010567
+182.0 offset value 191.54637188136732
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:53:00.0, value=177.7}
+SLA 98.95257162215484
+178.0 offset value 197.67499999999993
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:53:06.0, value=184.52500000000003}
+SLA 98.93978481769923
+185.0 offset value 189.04999999999998
+received currentReplicas from CPA29
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:53:12.0, value=182.32500000000002}
+SLA 98.94817542662733
+182.0 offset value 172.275
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+No need to scale!
+BTCount{timestamp=2024-06-15 07:53:18.0, value=166.32500000000002}
+SLA 98.97962512688325
+166.0 offset value 187.975
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.5
+This downscale CPU threshhold values selected due to STABLE mode 0.22
+No need to scale!
+BTCount{timestamp=2024-06-15 07:53:24.0, value=183.47500000000002}
+Old upscaling CPU values CPUValues{upper=0.5, mid=0.4, lower=0.3} new CPU values CPUValues{upper=0.55, mid=0.45, lower=0.35}. Old downscaling CPU values CPUValues{upper=0.22, mid=0.17, lower=0.12} new CPU values CPUValues{upper=0.3, mid=0.2, lower=0.15}
+SLA 98.99439716550806
+183.0 offset value 201.55
+received currentReplicas from CPA29
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.99439716550806SLA before:98.97962512688325the diff: 0.014772038624812467
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:53:24.0, value=0.2315907125006947} velocity: Velocity{averageIncreaseVelocity=-0.41222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 29 velocity level: Velocity{averageIncreaseVelocity=-0.41222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.0205608}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.2315907125006947by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 23
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 23
+Setting cooldown period upscale: 10
+Setting cooldown downscale: 10
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:53:30.0, value=185.0}
+SLA 99.00382893900796
+185.0 offset value 179.92499999999993
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:53:36.0, value=197.9}
+SLA 98.99576688253056
+198.0 offset value 186.87500000000003
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:53:42.0, value=204.82500000000002}
+SLA 99.02475962570098
+205.0 offset value 178.8
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:53:48.0, value=196.17500000000004}
+SLA 99.02914486894045
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+196.0 offset value 180.57500000000002
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:53:54.0, value=193.50000000000003}
+SLA 99.03822428863681
+194.0 offset value 187.275
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+received currentReplicas from CPA23
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 23  replicas from Prometheus 29 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:00.0, value=202.54068783068777}
+SLA 99.01478812582289
+203.0 offset value 174.30000000000004
+received currentReplicas from CPA23
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA23
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+shouldDownScale: downscale in normal conditions
+SLA now:99.01478812582289SLA before:99.01478812582289the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:54:00.0, value=0.2874398916067033} velocity: Velocity{averageIncreaseVelocity=0.63778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} replicas: 23 velocity level: Velocity{averageIncreaseVelocity=0.63778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.02077101}
+LastKnownAvgCPUn0.2874398916067033by Treshold: 0.3 and decrease factor 1
+Desired downscaling replicas 23
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 23
+BTCount{timestamp=2024-06-15 07:54:06.0, value=198.9807597037037}
+SLA 99.02426335791537
+199.0 offset value 174.8
+received currentReplicas from CPA23
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+shouldDownScale: downscale in normal conditions
+SLA now:99.02426335791537SLA before:99.01478812582289the diff: 0.00947523209248402
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:54:06.0, value=0.2711241322126716} velocity: Velocity{averageIncreaseVelocity=0.53778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} replicas: 23 velocity level: Velocity{averageIncreaseVelocity=0.53778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.02086869}
+LastKnownAvgCPUn0.2711241322126716by Treshold: 0.3 and decrease factor 1
+Desired downscaling replicas 21
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 21
+Setting cooldown period upscale: 10
+Setting cooldown downscale: 10
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:12.0, value=193.9}
+SLA 99.03947185524018
+194.0 offset value 184.225
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:18.0, value=185.85000000000002}
+SLA 99.05057584499896
+186.0 offset value 189.475
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:24.0, value=184.125}
+SLA 99.05528345195704
+184.0 offset value 206.175
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:30.0, value=196.09999999999997}
+SLA 99.06316459103223
+196.0 offset value 200.52500000000003
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:36.0, value=195.09999999999997}
+SLA 99.07208388848234
+195.0 offset value 191.85000000000002
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:42.0, value=201.2831720634921}
+SLA 99.08205302953569
+201.0 offset value 203.04570158730152
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 23 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:54:48.0, value=186.72634}
+SLA 99.09000726667627
+187.0 offset value 193.1348459259259
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:54:54.0, value=201.64999999999995}
+SLA 99.09046895873995
+202.0 offset value 202.12534222222226
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:00.0, value=193.125}
+SLA 99.07629962088602
+193.0 offset value 191.50000000000006
+received currentReplicas from CPA21
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:06.0, value=209.29999999999998}
+SLA 99.10035502660101
+209.0 offset value 183.2
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:12.0, value=202.5}
+SLA 99.10761253439536
+203.0 offset value 189.55
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:18.0, value=190.00000000000003}
+SLA 99.11431934090623
+190.0 offset value 202.725
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:24.0, value=179.77500000000003}
+SLA 99.10168629387186
+180.0 offset value 195.85000000000002
+received currentReplicas from CPA21
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:30.0, value=170.47499999999997}
+SLA 99.10582285806385
+170.0 offset value 196.95658412698413
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:36.0, value=179.14999999999998}
+SLA 99.08941553181485
+179.0 offset value 195.39370666666667
+received currentReplicas from CPA21
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:99.08941553181485SLA before:99.08941553181485the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:55:36.0, value=0.29874760518866134} velocity: Velocity{averageIncreaseVelocity=-0.3643, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 21 velocity level: Velocity{averageIncreaseVelocity=-0.3643, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.02154037}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29874760518866134by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 21
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 21
+BTCount{timestamp=2024-06-15 07:55:42.0, value=184.97500000000002}
+SLA 98.90640104184072
+185.0 offset value 191.47499999999994
+received currentReplicas from CPA21
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.90640104184072SLA before:98.90640104184072the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:55:42.0, value=0.29456826938726344} velocity: Velocity{averageIncreaseVelocity=-0.14389, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 21 velocity level: Velocity{averageIncreaseVelocity=-0.14389, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01965362}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29456826938726344by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 21
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 21
+BTCount{timestamp=2024-06-15 07:55:48.0, value=187.725}
+SLA 98.91567690242107
+188.0 offset value 207.50000000000003
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:55:54.0, value=183.65}
+SLA 98.92247184317695
+184.0 offset value 205.10000000000002
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:00.0, value=186.60000000000002}
+SLA 98.9278862854042
+187.0 offset value 201.27499999999998
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:06.0, value=188.975}
+SLA 98.93610542898422
+189.0 offset value 177.27500000000003
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:12.0, value=204.3}
+SLA 98.94660677084552
+204.0 offset value 178.37499999999997
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:18.0, value=184.70000000000002}
+SLA 98.95498761560813
+185.0 offset value 166.35
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:24.0, value=191.94954377281138}
+SLA 98.96495034124464
+192.0 offset value 193.275
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:30.0, value=192.84999999999997}
+SLA 98.97200515137958
+193.0 offset value 186.3
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:36.0, value=204.17499999999998}
+SLA 98.98045134396834
+204.0 offset value 184.925
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:42.0, value=218.92374390701164}
+SLA 98.98957055874772
+219.0 offset value 184.87500000000003
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:48.0, value=212.95000000000002}
+SLA 98.99818066896987
+213.0 offset value 185.4
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:56:54.0, value=213.35000000000002}
+SLA 99.00535755817238
+213.0 offset value 201.97500000000002
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:57:00.0, value=214.95}
+SLA 99.01362537860999
+215.0 offset value 190.675
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA21
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:57:06.0, value=210.46097627681388}
+SLA 98.95181974096036
+210.0 offset value 186.675
+received currentReplicas from CPA21
+SAAA is running
+SLA decresing, need to upscale sooner
+shouldUpscale: Upscaling in nomal conditions
+SLA now:98.95181974096036SLA before:99.01362537860999the diff: -0.06180563764962699
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 07:57:06.0, value=0.3780751764012779} velocity: Velocity{averageIncreaseVelocity=0.51833, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} current replicas: 21 velocity level: Velocity{averageIncreaseVelocity=0.51833, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}slafacror: SLAFactor{value=1.02012185}
+SLA decresing, need to upscale sooner
+Desired upscale replicas 24
+Original Increase factor is: 1 And original replicas : 24Desired upscale replicas 24
+Final Target replicas :24
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 24
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:57:12.0, value=244.425}
+SLA 98.0979726315179
+244.0 offset value 192.675
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:57:18.0, value=226.54999999999998}
+SLA 98.10825313152903
+227.0 offset value 196.64999999999998
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:57:24.0, value=239.17499999999998}
+SLA 98.07204829977242
+239.0 offset value 216.4987439070116
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:57:30.0, value=248.2128}
+SLA 98.07651683004366
+248.0 offset value 216.82500000000005
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+received currentReplicas from CPA24
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 24  replicas from Prometheus 21 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:57:36.0, value=246.57115518518518}
+SLA 98.08827085619211
+247.0 offset value 208.875
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:57:43.0, value=247.15381688888888}
+SLA 98.10549965880084
+247.0 offset value 214.72500000000005
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:57:49.0, value=215.27566814814816}
+SLA 98.11362959938278
+215.0 offset value 212.50053627681385
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:57:55.0, value=200.73321015873015}
+SLA 98.12428371237925
+201.0 offset value 239.39999999999995
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:01.0, value=194.9105005555556}
+SLA 98.1346193651318
+195.0 offset value 235.325
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:07.0, value=194.71581790951518}
+SLA 98.15158962871368
+195.0 offset value 230.45130953869236
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:13.0, value=205.81420277777772}
+SLA 98.1692225506399
+206.0 offset value 245.04999999999998
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.1692225506399SLA before:98.15158962871368the diff: 0.017632921926221456
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:58:13.0, value=0.28937909034042875} velocity: Velocity{averageIncreaseVelocity=-0.86778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 24 velocity level: Velocity{averageIncreaseVelocity=-0.86778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01205384}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.28937909034042875by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 24
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 24
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.1692225506399SLA before:98.1692225506399the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:58:13.0, value=0.28937909034042875} velocity: Velocity{averageIncreaseVelocity=-0.86778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 24 velocity level: Velocity{averageIncreaseVelocity=-0.86778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01205384}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.28937909034042875by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 24
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 24
+BTCount{timestamp=2024-06-15 07:58:19.0, value=196.55}
+SLA 98.17596843207316
+197.0 offset value 244.1258311111111
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:25.0, value=198.90000000000003}
+SLA 98.18715744804382
+199.0 offset value 248.19188000000003
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:31.0, value=212.72500000000002}
+SLA 98.20192396871887
+213.0 offset value 233.40021096296294
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:37.0, value=214.44999999999996}
+SLA 98.20890228454908
+214.0 offset value 201.9291968253968
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:43.0, value=213.625}
+SLA 98.22359178596791
+214.0 offset value 196.06128055555556
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:49.0, value=193.50967112179006}
+SLA 98.23242185047252
+194.0 offset value 195.15506444444443
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:58:55.0, value=189.4244094192936}
+SLA 98.24354115527757
+189.0 offset value 199.7380506872929
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:59:01.0, value=186.42397825271843}
+SLA 98.25388333193278
+186.0 offset value 201.95
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.25388333193278SLA before:98.24354115527757the diff: 0.01034217665521453
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:59:01.0, value=0.29929119389514863} velocity: Velocity{averageIncreaseVelocity=-0.35444, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 24 velocity level: Velocity{averageIncreaseVelocity=-0.35444, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01292663}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29929119389514863by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 24
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 24
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.25388333193278SLA before:98.25388333193278the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:59:01.0, value=0.29929119389514863} velocity: Velocity{averageIncreaseVelocity=-0.35444, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 24 velocity level: Velocity{averageIncreaseVelocity=-0.35444, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01292663}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29929119389514863by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 24
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 24
+BTCount{timestamp=2024-06-15 07:59:07.0, value=175.05000000000004}
+SLA 98.26142972656406
+175.0 offset value 195.57500000000002
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.26142972656406SLA before:98.25388333193278the diff: 0.007546394631276598
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:59:07.0, value=0.29805433248136265} velocity: Velocity{averageIncreaseVelocity=-0.45722, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 24 velocity level: Velocity{averageIncreaseVelocity=-0.45722, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01300443}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29805433248136265by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 24
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 24
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.26142972656406SLA before:98.26142972656406the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:59:07.0, value=0.29805433248136265} velocity: Velocity{averageIncreaseVelocity=-0.45722, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 24 velocity level: Velocity{averageIncreaseVelocity=-0.45722, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01300443}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29805433248136265by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 24
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 24
+BTCount{timestamp=2024-06-15 07:59:13.0, value=169.65000000000003}
+SLA 98.26997361127803
+170.0 offset value 211.15
+received currentReplicas from CPA24
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.26997361127803SLA before:98.26142972656406the diff: 0.008543884713972716
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 07:59:13.0, value=0.2714882122865222} velocity: Velocity{averageIncreaseVelocity=-0.91444, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 24 velocity level: Velocity{averageIncreaseVelocity=-0.91444, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01309251}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.2714882122865222by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+Setting cooldown period upscale: 10
+Setting cooldown downscale: 10
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:59:19.0, value=186.69999999999996}
+SLA 98.28472491245404
+187.0 offset value 211.15000000000003
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:59:25.0, value=204.22499999999997}
+SLA 98.30040744268837
+204.0 offset value 219.82499999999996
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:59:31.0, value=200.25}
+SLA 98.3100400328868
+200.0 offset value 203.025
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:59:37.0, value=203.625}
+SLA 98.32208888546079
+204.0 offset value 188.37440941929356
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:59:43.0, value=206.12622202775347}
+SLA 98.32928604611358
+206.0 offset value 192.90000000000003
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 24 Lets cooldown..
+BTCount{timestamp=2024-06-15 07:59:49.0, value=213.77934730158734}
+SLA 98.33930765419375
+214.0 offset value 182.55
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 07:59:55.0, value=220.57804296296297}
+SLA 98.36160746542927
+221.0 offset value 170.87500000000003
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:01.0, value=198.62499999999997}
+SLA 98.37007438848819
+199.0 offset value 179.4
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:07.0, value=182.00081368539355}
+SLA 98.3780789388807
+182.0 offset value 195.79999999999995
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:13.0, value=187.85000000000005}
+SLA 98.38937076544207
+188.0 offset value 204.40000000000003
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:19.0, value=183.82500000000002}
+SLA 98.39740517613637
+184.0 offset value 203.85066004950374
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:25.0, value=204.125}
+SLA 98.40704989243726
+204.0 offset value 206.67622202775345
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:31.0, value=195.82408509149087}
+SLA 98.41470259568968
+196.0 offset value 204.91757142857142
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:37.0, value=191.925}
+SLA 98.42284723616763
+192.0 offset value 222.7236985185185
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:43.0, value=196.52500000000003}
+SLA 98.430951716576
+197.0 offset value 210.875
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:49.0, value=199.42722003717162}
+SLA 98.43925253304226
+199.0 offset value 184.47500000000005
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:00:55.0, value=188.67458377081144}
+SLA 98.44640542203987
+189.0 offset value 186.50081368539355
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:01.0, value=197.09999999999997}
+SLA 98.45701163623505
+197.0 offset value 188.05
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:07.0, value=197.52309355395033}
+SLA 98.46788314240223
+198.0 offset value 196.1
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:13.0, value=194.2508300830083}
+SLA 98.47673704743212
+194.0 offset value 198.15
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.47673704743212SLA before:98.46788314240223the diff: 0.008853905029894804
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:01:13.0, value=0.2958462395213894} velocity: Velocity{averageIncreaseVelocity=-0.09222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=0, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.09222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=0, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01522409}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.2958462395213894by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.47673704743212SLA before:98.47673704743212the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:01:13.0, value=0.2958462395213894} velocity: Velocity{averageIncreaseVelocity=-0.09222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=0, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.09222, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=0, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01522409}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.2958462395213894by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+BTCount{timestamp=2024-06-15 08:01:19.0, value=201.32500000000005}
+SLA 98.4827740709989
+201.0 offset value 197.32408509149087
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:25.0, value=203.77500000000003}
+SLA 98.49189650500539
+204.0 offset value 194.475
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:31.0, value=203.975}
+SLA 98.49905642047305
+204.0 offset value 199.075
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:37.0, value=198.37500000000003}
+SLA 98.50551651932025
+198.0 offset value 191.7495837708114
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:43.0, value=186.77499999999998}
+SLA 98.51192089034988
+187.0 offset value 194.875
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:49.0, value=176.92499999999998}
+SLA 98.5189549024241
+177.0 offset value 191.5980935539503
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:01:55.0, value=171.24999999999997}
+SLA 98.52616718838138
+171.0 offset value 196.27583008300832
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.52616718838138SLA before:98.5189549024241the diff: 0.0072122859572800735
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:01:55.0, value=0.294489429626794} velocity: Velocity{averageIncreaseVelocity=-0.56169, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.56169, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01573368}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.294489429626794by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.52616718838138SLA before:98.52616718838138the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:01:55.0, value=0.294489429626794} velocity: Velocity{averageIncreaseVelocity=-0.56169, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.56169, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01573368}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.294489429626794by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+BTCount{timestamp=2024-06-15 08:02:01.0, value=170.92465626718663}
+SLA 98.5315207550095
+171.0 offset value 200.17500000000004
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.5315207550095SLA before:98.52616718838138the diff: 0.0053535666281163685
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:01.0, value=0.2936517023955981} velocity: Velocity{averageIncreaseVelocity=-0.64833, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.64833, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01578887}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.2936517023955981by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.5315207550095SLA before:98.5315207550095the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:01.0, value=0.2936517023955981} velocity: Velocity{averageIncreaseVelocity=-0.64833, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.64833, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01578887}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.2936517023955981by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+BTCount{timestamp=2024-06-15 08:02:07.0, value=176.6}
+SLA 98.52753867217355
+177.0 offset value 199.90000000000003
+received currentReplicas from CPA22
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.52753867217355SLA before:98.52753867217355the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:07.0, value=0.29998205103866943} velocity: Velocity{averageIncreaseVelocity=-0.50889, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.50889, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01574782}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29998205103866943by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+BTCount{timestamp=2024-06-15 08:02:13.0, value=185.675}
+SLA 98.53266674585927
+186.0 offset value 207.95000000000002
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.53266674585927SLA before:98.52753867217355the diff: 0.005128073685725099
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:13.0, value=0.29531651413985555} velocity: Velocity{averageIncreaseVelocity=-0.48778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.48778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01580069}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29531651413985555by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.53266674585927SLA before:98.53266674585927the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:13.0, value=0.29531651413985555} velocity: Velocity{averageIncreaseVelocity=-0.48778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.48778, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01580069}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29531651413985555by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+BTCount{timestamp=2024-06-15 08:02:19.0, value=188.19999999999996}
+SLA 98.5399890538709
+188.0 offset value 201.77546627331367
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.5399890538709SLA before:98.53266674585927the diff: 0.007322308011623591
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:19.0, value=0.29614271668355546} velocity: Velocity{averageIncreaseVelocity=-0.30612, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.30612, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01587618}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29614271668355546by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.55
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+shouldDownScale: downscale in normal conditions
+SLA now:98.5399890538709SLA before:98.5399890538709the diff: 0.0
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:19.0, value=0.29614271668355546} velocity: Velocity{averageIncreaseVelocity=-0.30612, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.30612, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01587618}
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+LastKnownAvgCPUn0.29614271668355546by Treshold: 0.3 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.3
+Desired downscaling replicas 22
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 22
+BTCount{timestamp=2024-06-15 08:02:25.0, value=201.54999999999998}
+Old upscaling CPU values CPUValues{upper=0.55, mid=0.45, lower=0.35} new CPU values CPUValues{upper=0.58, mid=0.48, lower=0.38}. Old downscaling CPU values CPUValues{upper=0.3, mid=0.2, lower=0.15} new CPU values CPUValues{upper=0.32, mid=0.22, lower=0.17}
+SLA 98.54917740307073
+202.0 offset value 193.925
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+shouldDownScale: downscale in normal conditions
+SLA now:98.54917740307073SLA before:98.5399890538709the diff: 0.009188349199831691
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:02:25.0, value=0.28988375251504206} velocity: Velocity{averageIncreaseVelocity=0.17944, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=0.17944, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=1, decreaseFactor=0, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.0159709}
+LastKnownAvgCPUn0.28988375251504206by Treshold: 0.32 and decrease factor 1
+Desired downscaling replicas 20
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 20
+Setting cooldown period upscale: 10
+Setting cooldown downscale: 10
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:02:31.0, value=204.6}
+SLA 98.55600022138444
+205.0 offset value 180.67693543547298
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:02:37.0, value=229.32554127706385}
+SLA 98.56515646411395
+229.0 offset value 175.00000000000003
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:02:43.0, value=251.2357142857143}
+SLA 98.5163272778645
+251.0 offset value 166.49965626718662
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:02:49.0, value=262.1}
+SLA 98.19326281934744
+262.0 offset value 171.20000000000005
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:02:56.0, value=258.42500000000007}
+SLA 98.19013625643571
+258.0 offset value 181.70000000000002
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:03:02.0, value=263.5074933333333}
+SLA 98.20036766697217
+264.0 offset value 188.54999999999998
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+received currentReplicas from CPA20
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 20  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:03:08.0, value=260.0435837037037}
+SLA 98.20658832258982
+260.0 offset value 197.90000000000003
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:14.0, value=258.75064628231416}
+SLA 98.21262598593951
+259.0 offset value 200.85
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:20.0, value=255.17499999999998}
+SLA 98.22565879804294
+255.0 offset value 218.49948002599868
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:26.0, value=225.27500000000003}
+SLA 98.23222354249005
+225.0 offset value 242.60054127706388
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:32.0, value=214.625}
+SLA 98.24017858345985
+215.0 offset value 255.54999999999995
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:38.0, value=216.425}
+SLA 98.25048920419512
+216.0 offset value 258.05
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:44.0, value=221.87500000000003}
+SLA 98.26087204895023
+222.0 offset value 266.15
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:50.0, value=221.1}
+SLA 98.27009111006286
+221.0 offset value 256.3552171428571
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:03:56.0, value=225.08218285714287}
+SLA 98.27191271584313
+225.0 offset value 263.09999999999997
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA20
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:04:02.0, value=239.82499999999996}
+SLA 98.13920052890256
+240.0 offset value 262.10064628231413
+received currentReplicas from CPA20
+SAAA is running
+SLA decresing, need to upscale sooner
+shouldUpscale: Upscaling in nomal conditions
+SLA now:98.13920052890256SLA before:98.27191271584313the diff: -0.13271218694056586
+Ok we need to upScale, average CPU: AVGCPU{timestamp=2024-06-15 08:04:02.0, value=0.3930263366333158} velocity: Velocity{averageIncreaseVelocity=-0.49113, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE} current replicas: 20 velocity level: Velocity{averageIncreaseVelocity=-0.49113, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=1, velocityLevel=STABLE}slafacror: SLAFactor{value=1.01174434}
+SLA decresing, need to upscale sooner
+Desired upscale replicas 22
+Original Increase factor is: 1 And original replicas : 22Desired upscale replicas 22
+Final Target replicas :22
+Setting cooldown period upscale: 30
+Setting cooldown downscale: 40
+Upscale target replicas 22
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:04:08.0, value=227.31567089619344}
+SLA 98.14317360764261
+227.0 offset value 238.325
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:04:14.0, value=200.05000000000004}
+SLA 98.14523770607113
+200.0 offset value 214.775
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:04:20.0, value=190.47499999999997}
+SLA 98.15132813856974
+190.0 offset value 220.37499999999997
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:04:26.0, value=202.325}
+SLA 98.16000196912515
+202.0 offset value 215.55
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+received currentReplicas from CPA22
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 22  replicas from Prometheus 20 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:04:32.0, value=204.1357142857143}
+SLA 98.1644601890278
+204.0 offset value 224.27500000000003
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:04:38.0, value=203.67499999999998}
+SLA 98.06824945392087
+204.0 offset value 223.50000000000003
+received currentReplicas from CPA22
+SAAA is running
+SLA decresing, need to upscale sooner
+SLA IS DROPPING. SKIPPING DOWNSCALE
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:04:44.0, value=190.075}
+SLA 98.07338199351022
+190.0 offset value 234.4
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:04:50.0, value=194.45855770193177}
+SLA 98.07718740885475
+194.0 offset value 237.52499999999998
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+Possible increased througput. Ignoring Velocity
+No need to scale!
+BTCount{timestamp=2024-06-15 08:04:56.0, value=211.00426777777778}
+SLA 98.08347648854851
+211.0 offset value 214.26567089619346
+received currentReplicas from CPA22
+SAAA is running
+This CPU upscale threshhold values selected due to  STABLE mode0.58
+This downscale CPU threshhold values selected due to STABLE mode 0.32
+shouldDownScale: downscale in normal conditions
+SLA now:98.08347648854851SLA before:98.07718740885475the diff: 0.006289079693758026
+Ok we need to downscale, average CPU: AVGCPU{timestamp=2024-06-15 08:04:56.0, value=0.29619403543862105} velocity: Velocity{averageIncreaseVelocity=-0.07257, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=0, velocityLevel=STABLE} replicas: 22 velocity level: Velocity{averageIncreaseVelocity=-0.07257, tolerableIncreaseVelocity=0.55, tolerableDecreaseVelocity=0.55, increaseFactor=0, decreaseFactor=0, velocityLevel=STABLE}and SLA factor is SLAFactor{value=1.01116986}
+This downscale CPU threshhold values selected due to STABLE mode 0.32
+LastKnownAvgCPUn0.29619403543862105by Treshold: 0.32 and decrease factor 1
+This downscale CPU threshhold values selected due to STABLE mode 0.32
+Desired downscaling replicas 21
+Traffic is  volatile = false
+We are on SLA target and traffic is not volatile. Unvalidated target replicas are used for downscale (decrease factor is applied)
+Downscale target replicas 21
+Setting cooldown period upscale: 10
+Setting cooldown downscale: 10
+BTCount{timestamp=2024-06-15 08:05:02.0, value=199.85022761904762}
+SLA 98.09064214091524
+200.0 offset value 189.72500000000002
+BTCount{timestamp=2024-06-15 08:05:08.0, value=206.59858888888888}
+SLA 98.00405506054368
+207.0 offset value 195.025
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:05:14.0, value=198.20223}
+SLA 97.99994830374624
+198.0 offset value 202.975
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 22 Lets cooldown..
+received currentReplicas from CPA21
+SAAA is running
+Mismatch. CPA provided replicas count (run now) 21  replicas from Prometheus 22 Lets cooldown..
+BTCount{timestamp=2024-06-15 08:05:20.0, value=178.75479444444446}
+SLA 98.00427931080814
+179.0 offset value 211.45000000000002

@@ -1,0 +1,2 @@
+
+sudo nuhup ./evaluationsHPA.sh

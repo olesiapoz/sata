@@ -1,0 +1,13 @@
+extraScrapeConfigs: 
+  - job_name: 'busines-tx-metrics'
+    scrape_interval: 5s
+    evaluation_interval: 5s
+    metrics_path: /actuator/prometheus
+    kubernetes_sd_configs:
+      - role: endpoints
+  - job_name: 'jmeter'
+    scrape_interval: 5s
+    evaluation_interval: 5s
+    metrics_path: /metrics
+    static_configs:
+      - targets: [phdvm.northeurope.cloudapp.azure.com:9270]
